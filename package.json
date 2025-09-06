@@ -1,0 +1,16 @@
+{
+  "name": "backends_with_chai_aur_django",
+  "version": "1.0.0",
+  "description": "a backend with chai_aur_code channel - youtube",
+  "keywords": [
+    "javascript",
+    "backends"
+  ],
+  "license": "ISC",
+  "author": "chisty",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
